@@ -1,0 +1,19 @@
+#double {
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden;
+    list-style: disc;
+}
+
+#double li {
+    line-height: 1.5em;
+    float: left;
+    display: inline;
+    width: 50%; 
+    list-style: inside; 
+}
+
+#container {
+    max-width: 950px;
+    margin: 0 auto;
+}
